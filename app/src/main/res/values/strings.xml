@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculadora2.0</string>
+    <string name="regresar">Regresar</string>
+    <string name="todo">TODO</string>
+    <string name="solucion">Solucion :</string>
+    <string name="_0">0</string>
+</resources>
